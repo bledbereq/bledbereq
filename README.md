@@ -1,2 +1,7 @@
+Header
 
-Heelo dxc
+About me
+
+Languages and tools
+
+Follow Me  
